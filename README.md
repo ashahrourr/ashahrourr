@@ -5,15 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashahrourr&label=Profile%20views&color=0e75b6&style=flat" alt="ashahrourr" /> </p>
 
-- 🔭 I’m currently working on **Footy**
-
-- 🌱 I’m currently learning **Reat Native**
-
-- 💬 Ask me about **Software Engineering, Trading**
-
 - 📫 How to reach me **ashahrourr@gmail.com**
-
-- ⚡ Fun fact **I played professional soccer at the age of 16**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
